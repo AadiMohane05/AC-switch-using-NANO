@@ -28,7 +28,7 @@ This board simplifies the wiring mess of breadboard prototypes by consolidating 
 4.  **Power:** The board takes 12V from a standard adapter and regulates it down for the logic components.
 
 ## 📸 Visuals
-![Board Top View](path-to-your-image.png)
+![Board Top View](https://github.com/AadiMohane05/AC-switch-using-NANO/blob/main/Screenshot%202026-02-15%20150159.png)
 *(Replace this text with the path to your actual image, e.g., `images/board_render.png`)*
 
 ## 🔮 Future Improvements
@@ -36,7 +36,7 @@ This board simplifies the wiring mess of breadboard prototypes by consolidating 
 * Implementing zero-crossing detection for smoother AC switching.
 
 ---
-**Author:** [Your Name]  
-**Role:** 2nd Year ECE Student @ SGBAU  
+**Author:** Aadi Mohane  
+**Role:** 2nd Year ECE Student @ SSGMCE  
 **Tools Used:** EasyEDA, Arduino IDE
 
