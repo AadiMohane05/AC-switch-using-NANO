@@ -28,7 +28,7 @@ This board simplifies the wiring mess of breadboard prototypes by consolidating 
 4.  **Power:** The board takes 12V from a standard adapter and regulates it down for the logic components.
 
 ## 📸 Visuals
-![Board Top View](https://github.com/AadiMohane05/AC-switch-using-NANO/blob/main/Screenshot%202026-02-15%20150159.png)
+[![Board Top View](https://github.com/AadiMohane05/AC-switch-using-NANO/blob/main/Screenshot%202026-02-14%20113034.png)
 
 
 ## 🔮 Future Improvements
