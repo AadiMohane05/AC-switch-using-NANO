@@ -16,7 +16,7 @@ This board simplifies the wiring mess of breadboard prototypes by consolidating 
     * Status LED (connected to a GPIO for debugging).
 
 ## 📂 Repository Structure
-* SCH_AC-switch-using-NANO_2026-02-16.json : Circuit diagrams and PDF exports.
+* `/SCH_AC-switch-using-NANO_2026-02-16.json `: Circuit diagrams and PDF exports.
 * `/PCB_Design`: EasyEDA source files and Gerber manufacturing data.
 * `/Code`: Arduino sketch (`.ino`) for basic IR switching logic.
 * `/Images`: Photos of the assembled board.
