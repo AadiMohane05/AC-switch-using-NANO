@@ -29,7 +29,7 @@ This board simplifies the wiring mess of breadboard prototypes by consolidating 
 
 ## 📸 Visuals
 ![Board Top View](https://github.com/AadiMohane05/AC-switch-using-NANO/blob/main/Screenshot%202026-02-15%20150159.png)
-*(Replace this text with the path to your actual image, e.g., `images/board_render.png`)*
+
 
 ## 🔮 Future Improvements
 * Adding an ESP8266 header for Wi-Fi control.
